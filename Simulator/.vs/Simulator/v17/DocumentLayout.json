@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\noamt\\source\\repos\\Simulator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8723E6E-D2C5-4283-A390-AF29B273668E}|Simulator\\Simulator.csproj|c:\\users\\noamt\\source\\repos\\simulator\\simulator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8723E6E-D2C5-4283-A390-AF29B273668E}|Simulator\\Simulator.csproj|solutionrelative:simulator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8723E6E-D2C5-4283-A390-AF29B273668E}|Simulator\\Simulator.csproj|c:\\users\\noamt\\source\\repos\\simulator\\simulator\\sharablespreadsheet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8723E6E-D2C5-4283-A390-AF29B273668E}|Simulator\\Simulator.csproj|solutionrelative:simulator\\sharablespreadsheet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SharableSpreadSheet.cs",
+              "DocumentMoniker": "C:\\Users\\noamt\\source\\repos\\Simulator\\Simulator\\SharableSpreadSheet.cs",
+              "RelativeDocumentMoniker": "Simulator\\SharableSpreadSheet.cs",
+              "ToolTip": "C:\\Users\\noamt\\source\\repos\\Simulator\\Simulator\\SharableSpreadSheet.cs",
+              "RelativeToolTip": "Simulator\\SharableSpreadSheet.cs",
+              "ViewState": "AQIAAKEAAAAAAAAAAAAswCQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T13:45:40.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\noamt\\source\\repos\\Simulator\\Simulator\\Program.cs",
+              "RelativeDocumentMoniker": "Simulator\\Program.cs",
+              "ToolTip": "C:\\Users\\noamt\\source\\repos\\Simulator\\Simulator\\Program.cs",
+              "RelativeToolTip": "Simulator\\Program.cs",
+              "ViewState": "AQIAANMAAAAAAAAAAAAswN0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T13:43:26.582Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

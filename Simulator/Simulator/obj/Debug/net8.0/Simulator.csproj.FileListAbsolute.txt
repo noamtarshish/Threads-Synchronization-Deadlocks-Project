@@ -1,0 +1,14 @@
+C:\Users\noamt\source\repos\Simulator\Simulator\bin\Debug\net8.0\Simulator.exe
+C:\Users\noamt\source\repos\Simulator\Simulator\bin\Debug\net8.0\Simulator.deps.json
+C:\Users\noamt\source\repos\Simulator\Simulator\bin\Debug\net8.0\Simulator.runtimeconfig.json
+C:\Users\noamt\source\repos\Simulator\Simulator\bin\Debug\net8.0\Simulator.dll
+C:\Users\noamt\source\repos\Simulator\Simulator\bin\Debug\net8.0\Simulator.pdb
+C:\Users\noamt\source\repos\Simulator\Simulator\obj\Debug\net8.0\Simulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noamt\source\repos\Simulator\Simulator\obj\Debug\net8.0\Simulator.AssemblyInfoInputs.cache
+C:\Users\noamt\source\repos\Simulator\Simulator\obj\Debug\net8.0\Simulator.AssemblyInfo.cs
+C:\Users\noamt\source\repos\Simulator\Simulator\obj\Debug\net8.0\Simulator.csproj.CoreCompileInputs.cache
+C:\Users\noamt\source\repos\Simulator\Simulator\obj\Debug\net8.0\Simulator.dll
+C:\Users\noamt\source\repos\Simulator\Simulator\obj\Debug\net8.0\refint\Simulator.dll
+C:\Users\noamt\source\repos\Simulator\Simulator\obj\Debug\net8.0\Simulator.pdb
+C:\Users\noamt\source\repos\Simulator\Simulator\obj\Debug\net8.0\Simulator.genruntimeconfig.cache
+C:\Users\noamt\source\repos\Simulator\Simulator\obj\Debug\net8.0\ref\Simulator.dll
